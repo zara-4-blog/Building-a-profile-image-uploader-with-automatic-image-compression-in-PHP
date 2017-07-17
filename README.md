@@ -9,5 +9,10 @@ View the accompanying
 ## No Profile Image
 ![No Image Screenshot](img/screenshot-01.png)
 
+
 ## With Profile Image
 ![With Image Screenshot](img/screenshot-02.png)
+
+
+## License
+Released under the MIT license. [View license](LICENSE)
