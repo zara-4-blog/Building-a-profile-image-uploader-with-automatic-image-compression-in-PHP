@@ -1,0 +1,11 @@
+{
+  "name": "zara-4-blog/building-a-profile-image-uploader-with-automatic-image-compression-in-php",
+  "description": "Building a profile image uploader with automatic image compression in PHP",
+  "keywords": ["Zara 4", "Image Compression", "Image profile uploader"],
+  "homepage": "https://blog.zara4.com/building-a-profile-image-uploader-with-automatic-image-compression-in-php",
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "zara-4/php-sdk": "~1.2"
+  }
+}

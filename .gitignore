@@ -1,0 +1,4 @@
+*.idea/
+vendor/
+uploaded-profile-*
+metadata.json
